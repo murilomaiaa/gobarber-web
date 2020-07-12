@@ -1,3 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Go Barber Web
 
-## Available Scripts
+Go barber is an application developed at GoStack Bootcamp classes. This application is designed to be used by barbers and hair stylists.
