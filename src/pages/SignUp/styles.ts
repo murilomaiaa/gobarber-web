@@ -16,7 +16,7 @@ export const Content = styled.div`
   place-content: center;
 
   width: 100%;
-  max-width: 700px;
+  max-width: 560px;
 
   form {
     margin: 8px 0;
