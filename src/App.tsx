@@ -3,7 +3,7 @@ import React from 'react';
 import GlobalStyle from './styles/global';
 // import SignUp from './pages/SignUp';
 import SignIn from './pages/SignIn';
-import { AuthProvider } from './hooks/Auth';
+import { AuthProvider } from './hooks/auth';
 import ToastContainer from './components/ToastContainer';
 
 const App: React.FunctionComponent = () => {
